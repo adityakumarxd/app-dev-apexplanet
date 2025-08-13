@@ -1,0 +1,19 @@
+Backend Integration and API Development
+Objective:
+Integrate backend services and APIs into the app.
+Activities:
+1.
+Days 19-21 : Backend Services Introduction
+Learn about backend services and REST APIs.
+Explore tools like Firebase for backend integration.
+2.
+Days 22-24 : API Integration
+Set up API calls to fetch and send data.
+Implement data handling and parsing in Android Studio.
+3.
+Days 25-27 : Error Handling and Debugging
+Implement error handling for API requests.
+Debug and resolve any issues with data integration.
+Deliverables:
+GitHub repository updated with backend integration and API functionality.
+LinkedIn post detailing the backend integration process and challenges faced.
